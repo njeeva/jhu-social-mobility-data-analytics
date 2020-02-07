@@ -1,2 +1,4 @@
-# jhu-social-mobility-data-analytics
-Learning about Excel pivot tables, VLOOKUP, IFs, and Histograms with data from Opportunity Insights
+# The effect of ending legacy admissions at Johns Hopkins University.
+
+We compared different distribution of students' and parents' income at US colleges according to College Tier using data from the [Opportunity Insights](https://opportunityinsights.org/) group.
+
